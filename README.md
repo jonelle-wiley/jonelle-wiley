@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hi, I’m Jonelle Wiley 👋
 
-<!--
-**jonelle-wiley/jonelle-wiley** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an aspiring **remote data analyst** passionate about using data to tell stories and solve real-world problems. I'm currently building strong skills in **SQL, Excel, Python**, and **data visualization tools** like Tableau and Power BI.
 
-Here are some ideas to get you started:
+🎓 Currently completing the **Google Data Analytics Certificate**  
+📊 Love working with spreadsheets, cleaning data, and building dashboards  
+💻 Practicing Python through small, real-life projects (see my repos!)  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔍 Actively seeking a **remote, flexible entry-level data role** where I can grow, contribute, and support my family's future 💖
+
+---
+
+📫 **Contact:** jonelle.wiley0210@gmail.com
