@@ -1,13 +1,51 @@
-# Hi, I’m Jonelle Wiley 👋
+# 👋 Hi, I'm Jonelle Wiley
 
-I'm an aspiring **remote data analyst** passionate about using data to tell stories and solve real-world problems. I'm currently building strong skills in **SQL, Excel, Python**, and **data visualization tools** like Tableau and Power BI.
+💡 **Data and Business Analyst specializing in energy and utilities**, transforming complex datasets into actionable insights for equitable, data-driven decisions.
 
-💼 Currently working as a Claims Specialist at CVS Specialty Pharmacy, where I process insurance claims using coding logic, manage prior authorizations, apply override codes, and collaborate with providers and insurers to help patients access life-saving medications  
-🎓 Completing the **Google Data Analytics Certificate**  
-📊 Love working with spreadsheets, cleaning data, and building dashboards  
-💻 Practicing Python through small, real-life projects (see my repos!)  
-
-🔍 Actively seeking a **remote, flexible entry-level data role** where I can grow, contribute, and support my family's future 💖
 ---
 
-📫 **Contact:** jonelle.wiley0210@gmail.com
+## ⚡ What I Do
+- Analyze **energy burden and utility data** to uncover trends, optimize processes, and support data-informed decisions.
+- Build **dynamic dashboards in Tableau and Power BI** for stakeholder reporting and strategic planning.
+- Write **SQL queries** to extract, clean, and transform large energy datasets.
+- Apply **GIS mapping and spatial analysis** to visualize and understand geographic energy burden impacts.
+
+---
+
+## 📊 Current Focus
+🌎 **Energy and Utilities Analytics**  
+- Analyzing **Texas energy burden by ZIP code** using SQL to identify high-burden areas for targeted energy equity initiatives.
+- Building Tableau dashboards to visualize key metrics and simplify complex data for clear stakeholder communication.
+
+---
+
+## 🧩 Skills
+**SQL | Tableau | Power BI | Excel | Python | GIS Mapping & Spatial Analysis | Data Cleaning | Energy & Utilities Analysis | Dashboard Development | Reporting Automation**
+
+---
+
+## 🎓 Certifications
+- IBM Business Intelligence Analyst
+- IBM Data Analyst
+- Google Data Analytics
+- Google Project Management
+- GIS Mapping & Spatial Analysis (Coursera)
+- Fundamentals of Global Energy Business (Coursera)
+
+---
+
+## 💡 Projects
+- [Texas Energy Burden Analysis (SQL + Tableau)](#)
+- [Heat Maps of Energy Burden by ZIP Code](#)
+
+---
+
+## 🎯 Career Goal
+Seeking **remote data and business analyst roles in the energy and utilities sector** to contribute to impactful, data-driven projects that support equity and sustainability.
+
+---
+
+## 📫 Contact
+- **Email:** jonelle.wiley0210@gmail.com
+- **LinkedIn:** linkedin.com/in/jonelle-wiley-4ba570127
+-
