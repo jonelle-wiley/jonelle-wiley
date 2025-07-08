@@ -1,51 +1,32 @@
-# 👋 Hi, I'm Jonelle Wiley
+# Jonelle Wiley | Data and Business Intelligence Analyst
 
-💡 **Data and Business Analyst specializing in energy and utilities**, transforming complex datasets into actionable insights for equitable, data-driven decisions.
+🌿 **Transforming complex datasets into actionable insights for equitable, data-driven decisions.**
 
----
+I am a **Data and Business Intelligence Analyst specializing in energy and utilities**, with a passion for turning data into clear stories that drive meaningful action. With a foundation in healthcare claims, client support, and revenue operations, I bring a unique perspective to data analysis by connecting operational realities with analytical insights.
 
-## ⚡ What I Do
-- Analyze **energy burden and utility data** to uncover trends, optimize processes, and support data-informed decisions.
-- Build **dynamic dashboards in Tableau and Power BI** for stakeholder reporting and strategic planning.
-- Write **SQL queries** to extract, clean, and transform large energy datasets.
-- Apply **GIS mapping and spatial analysis** to visualize and understand geographic energy burden impacts.
+## 🛠️ Skills & Tools
+- **Data Visualization:** Tableau, Power BI
+- **Data Analysis:** Excel, SQL
+- **Business Intelligence:** Dashboard development, KPI reporting, stakeholder insights
+- **Data Cleaning & Preparation:** Ensuring accuracy for decision-making
 
----
+## 🌟 Approach
+I believe in **data that serves people**. Whether mapping energy burdens across communities or streamlining claims operations, I focus on clarity, integrity, and accessibility in every analysis I create.
 
-## 📊 Current Focus
-🌎 **Energy and Utilities Analytics**  
-- Analyzing **Texas energy burden by ZIP code** using SQL to identify high-burden areas for targeted energy equity initiatives.
-- Building Tableau dashboards to visualize key metrics and simplify complex data for clear stakeholder communication.
+## 📊 Featured Project
+### [Texas Energy Burden Analysis (Tableau Dashboard)](https://public.tableau.com/views/EnergyBurden_17514009906850/WhereEnergyBillsHurttheMost)
+An interactive dashboard visualizing energy cost burdens across Texas ZIP codes, helping stakeholders identify high-burden areas for targeted policy and program funding.
 
----
+- Mapped energy burden percentages across Texas ZIP codes
+- Identified top ZIP codes with the highest energy burdens
+- Analyzed the inverse relationship between median income and energy burden
+- Designed a clean, interactive Tableau dashboard for clear stakeholder insights
 
-## 🧩 Skills
-**SQL | Tableau | Power BI | Excel | Python | GIS Mapping & Spatial Analysis | Data Cleaning | Energy & Utilities Analysis | Dashboard Development | Reporting Automation**
+## ✨ Let's Connect
+If you are looking for a data and business intelligence analyst who can bring clarity to complex datasets and create visuals that support informed decision-making, I would love to connect.
 
----
-
-## 🎓 Certifications
-- IBM Business Intelligence Analyst
-- IBM Data Analyst
-- Google Data Analytics
-- Google Project Management
-- GIS Mapping & Spatial Analysis (Coursera)
-- Fundamentals of Global Energy Business (Coursera)
+[LinkedIn](https://www.linkedin.com) | [Tableau Public](https://public.tableau.com/views/EnergyBurden_17514009906850/WhereEnergyBillsHurttheMost)
 
 ---
 
-## 💡 Projects
-- [Texas Energy Burden Analysis (SQL + Tableau)](#)
-- [Heat Maps of Energy Burden by ZIP Code](#)
-
----
-
-## 🎯 Career Goal
-Seeking **remote data and business analyst roles in the energy and utilities sector** to contribute to impactful, data-driven projects that support equity and sustainability.
-
----
-
-## 📫 Contact
-- **Email:** jonelle.wiley0210@gmail.com
-- **LinkedIn:** linkedin.com/in/jonelle-wiley-4ba570127
--
+📫 *“Using data to create a better tomorrow, one insight at a time.”*
